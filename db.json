@@ -1,6 +1,5 @@
 {
-  "posts": {
-    "items": [
+  "posts": [
       {
         "id": 0,
         "title": "Первый",
@@ -52,5 +51,4 @@
         "description": "Nulla malesuada pellentesque elit eget gravida cum. Bibendum neque egestas congue quisque."
       }
     ]
-  }
 }
